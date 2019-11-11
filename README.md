@@ -9,6 +9,6 @@ This project focuses on the time-series nature of load data of a group of househ
 
  A graph depicting predicted values and actual values has been plotted. It can be observed that the predicted values closely follow the actual values.   
 
- An important point here is to note how I arrived at feature size value 30. I arrived at this value after training and testing the GRU network with feature sets of different sizes like 15,30,45 and 60. The feature set of size 30 gave the best result. 
+ An important point here is to note how I arrived at feature size of 30. I arrived at this value after training and testing the GRU network with feature sets of different sizes like 15,30,45 and 60. The feature set of size 30 gave the best result. 
 
     
